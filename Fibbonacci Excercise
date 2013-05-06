@@ -1,0 +1,34 @@
+
+
+
+List squareBrackets := method (index, self at(call evalArgAt (0))
+)
+
+fibArray := [1, 1, 2, n]
+fibArray number := fibArray[n-1] + fibArray[n-2]
+
+while(n >1, n println; n = fibArray number) 
+
+///or chose the spot
+fibArray question := 
+writeLn(fibArray[n])
+
+
+
+Fib := Object clone
+
+Fib nthOne := 1
+Fib nthTwo := 1
+Fib array := List Fib slotNames
+Fib nth :=  method(array[n-1] + fibArray[n-2]
+Fib   slotNames(6)
+
+
+nth:= method (1, 1, 2, n )
+
+for(nth, 2, 17711, n(n-1)+n(n-2) println)
+
+///try again
+
+FibArray messageArgs(1,1,2,n)
+FibArray next1 :=method(doMessage(call message argAt(3))  )
